@@ -1,0 +1,10 @@
+name: "cars"
+output_dir: "docs"
+navbar:
+  title: "Bingo"
+  left:
+    - text: "Bingo Caller"
+      href: index.html
+output:
+  html_document:
+    theme: cosmo
